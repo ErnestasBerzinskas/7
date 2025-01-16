@@ -1,0 +1,49 @@
+body {
+margin: 0;
+}
+
+.pavadinimas {
+    text-align: center;
+    font-size: large;
+}
+
+.text {
+    position: absolute;
+    left: 15%;
+}
+
+.text2 {
+    position: absolute;
+    right: 15%;
+}
+
+.lighthouse {
+    position: absolute;
+    text-align: center;
+    bottom: 35%;
+    left: 43%;
+}
+
+.piramide {
+    text-align: center;
+}
+
+.babilonas {
+    text-align: center;
+}
+
+.statula {
+    text-align: center;
+}
+
+.arthemis {
+    text-align: center;
+}
+
+.mausoleum {
+    text-align: center;
+}
+
+.colossus {
+    text-align: center;
+}
